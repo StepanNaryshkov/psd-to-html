@@ -1,0 +1,25 @@
+{
+  "name": "psd-to-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepanNaryshkov/psd-to-html.git"
+  },
+  "author": "StepanNaryshkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StepanNaryshkov/psd-to-html/issues"
+  },
+  "homepage": "https://github.com/StepanNaryshkov/psd-to-html",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
